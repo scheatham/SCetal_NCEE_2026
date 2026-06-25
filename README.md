@@ -1,1 +1,1 @@
-# SCetal_NCEE_2026
+Here you will find all radiative transfer simulation configuration and output files for "The Ocean's Color is Changing Near the Great Pacific Garbage Patch", Cheatham, Koestner and Hamre 2026. All satellite data used for this publication is publicly available and not included in this repository.
